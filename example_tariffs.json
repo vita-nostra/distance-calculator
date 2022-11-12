@@ -1,0 +1,5 @@
+[
+  {"minDistance": 1, "maxDistance": 100, "cost": 100},
+  {"minDistance": 101, "maxDistance": 300, "cost": 80},
+  {"minDistance": 301, "maxDistance": null, "cost": 70}
+]
